@@ -20,7 +20,7 @@ USE_AUTO_DISCOVERY = True  # Set to False to use manual THREAD_URLS only
 PREVIEW_MODE = False  # Set to True to just preview discovered threads without scraping
 DISCOVERY_LIMIT = 1000  # How many recent threads to check for discovery
 DISCOVERY_SORT = "hot"  # Options: "hot" (best for finding active discussions), "new", "top"
-MIN_COMMENTS_PER_THREAD = 10 # RELAXED: Skip threads with fewer comments than this (was 10)
+MIN_COMMENTS_PER_THREAD = 5 # RELAXED: Skip threads with fewer comments than this (was 10)
 
 # Manual thread URLs (used if USE_AUTO_DISCOVERY is False, or as a supplement)
 MANUAL_THREAD_URLS = [

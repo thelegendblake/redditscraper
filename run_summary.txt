@@ -1,29 +1,29 @@
 Reddit Data Collection Summary - IMPROVED DISCOVERY
 ======================================================================
-Last run: 2026-02-16 22:50:32
+Last run: 2026-02-16 23:04:50
 Subreddit: r/smallbusiness
 Discovery mode: AUTO
 Discovery request budget: 8
 Recent-thread lookback: 14 days
-Recent-thread history size: 0
+Recent-thread history size: 207
 Target: 50 SUBSTANTIVE pain comments
-Collected: 5 comments
-Rejected: 189 (non-pain/advice)
+Collected: 6 comments
+Rejected: 266 (non-pain/advice)
 URL Validation Failures: 0
 
-Ranked candidates evaluated: 194
-Filtered hard-negatives: 74
-Filtered low-potential before strict check: 890
+Ranked candidates evaluated: 272
+Filtered hard-negatives: 81
+Filtered low-potential before strict check: 1228
 Threads using adaptive relaxed thresholds: 28
 
 Thread Productivity Analysis:
-  Productive threads: 4/60
-  Unproductive threads: 56
+  Productive threads: 6/60
+  Unproductive threads: 54
 
 Pain/Frustration Category Breakdown:
-  cash_flow_finance: 2
-  staffing: 2
+  cash_flow_finance: 4
   customer_management: 1
+  staffing: 1
 
 Files (all updated each run):
   - First_Last_RedditData_r_smallbusiness.csv
